@@ -1,7 +1,7 @@
-# Proyectos de React
+# React Projects 
 
-Repositorio de proyectos hechos mientras aprendo a desarrollar con React. Incluirá proyectos personales y obtenidos de cursos de plataformas como Udemy.
+Repository for projects made while learning how to develop web applications with React. This repo will include personal projects as well as projects related to courses from platforms like Udemy.
 
-## Cursos y proyectos
-### En progreso
+## Courses and projects
+### In progress
 - The Ultimate React Course 2023: React, Redux & More (Udemy): https://www.udemy.com/course/the-ultimate-react-course/
