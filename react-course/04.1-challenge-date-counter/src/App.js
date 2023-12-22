@@ -67,7 +67,7 @@ function Counter() {
           : `${Math.abs(count)} days ago was`}{" "}
         {date.toDateString()}
       </h1>
-      {/* Conditionally display reset button if values are not default*/}
+      {/* Conditionally display reset button if values are not default */}
       {count !== 0 || step !== 1 ? (
         <button onClick={hanldeReset}>Reset</button>
       ) : null}
